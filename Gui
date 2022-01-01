@@ -168,7 +168,7 @@ UITabs.Size = UDim2.new(1, 0, 1, 0)
 
 Tabs.Name = "Tabs"
 Tabs.Parent = UITabs
-Tabs.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tabs.BackgroundColor3 = _G.Color
 Tabs.BackgroundTransparency = 1.000
 Tabs.Position = UDim2.new(0, 13, 0, 41)
 Tabs.Size = UDim2.new(0, 421, 0, 209)
